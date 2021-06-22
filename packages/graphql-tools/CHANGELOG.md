@@ -1,5 +1,20 @@
 # graphql-tools
 
+## 8.0.0
+
+### Major Changes
+
+- e01d6b9e: Add deprecation notice and export makeExecutableSchema only
+
+### Patch Changes
+
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+  - @graphql-tools/schema@8.0.0
+
 ## 7.0.5
 
 ### Patch Changes

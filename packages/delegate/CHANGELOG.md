@@ -1,5 +1,28 @@
 # @graphql-tools/delegate
 
+## 8.0.0
+
+### Major Changes
+
+- e01d6b9e: BREAKING - Use native AggregateError if possible. Native AggregateError doesn't have iterator but errors prop
+
+### Patch Changes
+
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [982c8f53]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+  - @graphql-tools/utils@8.0.0
+  - @graphql-tools/schema@8.0.0
+  - @graphql-tools/batch-execute@7.1.3
+
 ## 7.1.5
 
 ### Patch Changes

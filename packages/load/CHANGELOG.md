@@ -1,5 +1,20 @@
 # @graphql-tools/load
 
+## 6.2.9
+
+### Patch Changes
+
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [982c8f53]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [a31f9593]
+  - @graphql-tools/utils@8.0.0
+  - @graphql-tools/merge@6.2.15
+
 ## 6.2.8
 
 ### Patch Changes

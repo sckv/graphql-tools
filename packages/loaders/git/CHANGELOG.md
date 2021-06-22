@@ -1,5 +1,23 @@
 # @graphql-tools/git-loader
 
+## 6.3.0
+
+### Minor Changes
+
+- 67cf1504: feat(git-loader): add glob support
+
+### Patch Changes
+
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [982c8f53]
+- Updated dependencies [e01d6b9e]
+  - @graphql-tools/utils@8.0.0
+  - @graphql-tools/graphql-tag-pluck@6.5.2
+
 ## 6.2.6
 
 ### Patch Changes

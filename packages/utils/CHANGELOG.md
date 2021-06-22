@@ -1,5 +1,20 @@
 # @graphql-tools/utils
 
+## 8.0.0
+
+### Major Changes
+
+- e01d6b9e: BREAKING - Remove fieldToFieldConfig, fieldToFieldConfig, argsToFieldConfigArgument and argumentToArgumentConfig
+- e01d6b9e: BREAKING - deprecate legacy schema directives and directive resolvers
+- e01d6b9e: BREAKING - Use native AggregateError if possible. Native AggregateError doesn't have iterator but errors prop
+- e01d6b9e: BREAKING - remove debugLog
+- e01d6b9e: BREAKING - do not apply camelCase naming convention in buildOperationNodeForField
+- e01d6b9e: BREAKING - Remove SchemaVisitor, visitSchema and VisitSchemaKind
+
+### Patch Changes
+
+- 982c8f53: enhance(utils): refactor, cleanup and remove extra work
+
 ## 7.10.0
 
 ### Minor Changes

@@ -1,5 +1,26 @@
 # @graphql-tools/apollo-engine-loader
 
+## 7.0.0
+
+### Major Changes
+
+- e01d6b9e: BREAKING - Use native AggregateError if possible. Native AggregateError doesn't have iterator but errors prop
+
+### Minor Changes
+
+- a31f9593: feat(apollo-engine): add sync support
+
+### Patch Changes
+
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [982c8f53]
+- Updated dependencies [e01d6b9e]
+  - @graphql-tools/utils@8.0.0
+
 ## 6.2.5
 
 ### Patch Changes

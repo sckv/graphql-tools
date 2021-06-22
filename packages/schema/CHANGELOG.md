@@ -1,5 +1,28 @@
 # @graphql-tools/schema
 
+## 8.0.0
+
+### Major Changes
+
+- e01d6b9e: BREAKING - deprecate legacy schema directives and directive resolvers
+- e01d6b9e: breaking - remove logger and addErrorLoggingToSchema - use envelop instead
+- e01d6b9e: BREAKING - enhance(schema): remove schema level resolvers and addSchemaLevelResolver
+- e01d6b9e: BREAKING(schema) - remove allowUndefinedResolve option, buildSchemaFromTypeDefinitions and use buildSchema instead
+
+### Patch Changes
+
+- e01d6b9e: enhance(schema): use merge package to handle typeDefs and resolvers merging
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [982c8f53]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [a31f9593]
+  - @graphql-tools/utils@8.0.0
+  - @graphql-tools/merge@6.2.15
+
 ## 7.1.5
 
 ### Patch Changes

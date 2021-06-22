@@ -1,5 +1,19 @@
 # @graphql-tools/links
 
+## 7.1.1
+
+### Patch Changes
+
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [982c8f53]
+- Updated dependencies [e01d6b9e]
+  - @graphql-tools/utils@8.0.0
+  - @graphql-tools/delegate@8.0.0
+
 ## 7.1.0
 
 ### Minor Changes

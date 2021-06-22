@@ -1,5 +1,26 @@
 # @graphql-tools/mock
 
+## 8.1.4
+
+### Patch Changes
+
+- 50be3974: Safer use of Object.prototype.hasOwnProperty #3069
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [982c8f53]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [a31f9593]
+  - @graphql-tools/utils@8.0.0
+  - @graphql-tools/schema@8.0.0
+  - @graphql-tools/merge@6.2.15
+
 ## 8.1.3
 
 ### Patch Changes

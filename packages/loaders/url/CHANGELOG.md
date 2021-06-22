@@ -1,5 +1,21 @@
 # @graphql-tools/url-loader
 
+## 6.10.2
+
+### Patch Changes
+
+- a31f9593: enhance(url-loader): avoid doing extra work on loader level
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [982c8f53]
+- Updated dependencies [e01d6b9e]
+  - @graphql-tools/utils@8.0.0
+  - @graphql-tools/delegate@8.0.0
+  - @graphql-tools/wrap@8.0.0
+
 ## 6.10.1
 
 ### Patch Changes

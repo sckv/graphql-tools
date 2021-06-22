@@ -1,5 +1,32 @@
 # @graphql-tools/stitch
 
+## 8.0.0
+
+### Major Changes
+
+- e01d6b9e: BREAKING - deprecate legacy schema directives and directive resolvers
+
+### Patch Changes
+
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [982c8f53]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [e01d6b9e]
+- Updated dependencies [a31f9593]
+  - @graphql-tools/utils@8.0.0
+  - @graphql-tools/schema@8.0.0
+  - @graphql-tools/delegate@8.0.0
+  - @graphql-tools/wrap@8.0.0
+  - @graphql-tools/merge@6.2.15
+  - @graphql-tools/batch-delegate@7.0.3
+
 ## 7.5.3
 
 ### Patch Changes
